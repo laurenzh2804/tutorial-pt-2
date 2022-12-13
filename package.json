@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/laurenzh2804/tutorial-pt-2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
